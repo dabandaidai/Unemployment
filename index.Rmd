@@ -71,9 +71,9 @@ By conducting this analysis, we hope to shed light on the complex interplay of f
 
 <br>
 
-The report can be accessed [click here](https://github.com/cindyellow/JSC370-FinalProject/blob/master/JSC370_FinalProject_Report_Shih-Ting(Cindy)Huang.pdf).
+The report can be accessed [click here](https://github.com/dabandaidai/Unemployment/blob/main/Report.pdf).
 
-A video presentation which explains this study can be seen [here](https://youtube.com).
+A video presentation which explains this study can be seen [here]([https://youtube.com](https://www.youtube.com/watch?v=1H5Q0Uxw8Ok)).
 
 
 
